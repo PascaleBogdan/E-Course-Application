@@ -1,7 +1,7 @@
-## E-Course Application 
+## E-learning Application 
 
 ## Overview:
-The E-Course Application is an innovative platform designed to revolutionize the e-learning experience. Developed during the Best Brasov Hackathon, this project secured the second-place position, highlighting its ingenuity and potential impact on education.
+The E-learning Application is an innovative platform designed to revolutionize the e-learning experience. Developed during the Best Brasov Hackathon, this project secured the second-place position, highlighting its ingenuity and potential impact on education.
 
 ## Key Features:
 Interactive Learning Environment: The application offers an immersive learning environment where users can engage with course materials through multimedia content, quizzes, and interactive exercises.
